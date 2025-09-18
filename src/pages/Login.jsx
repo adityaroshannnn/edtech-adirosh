@@ -1,0 +1,1 @@
+export default () => <div className='p-10'>Login Page</div>

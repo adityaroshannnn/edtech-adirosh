@@ -1,0 +1,1 @@
+export default () => <div className='p-10'>Quizzes Page</div>
